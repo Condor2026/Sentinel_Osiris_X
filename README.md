@@ -1,5 +1,9 @@
 # ◈ SENTINELA OSIRIS
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Sentinel+Osiris+%7C+Maritime+OSINT;AIS+%7C+Radar+%7C+SAR+%7C+UDP;Strait+of+Gibraltar+%7C+Albor%C3%A1n;Dark+AIS+%7C+Ferries+%7C+Narcolanchas;Signal+fusion+as+a+shield" alt="Sentinel Osiris" />
+</p>
+
 [![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Abug)
 [![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aenhancement)
 [![accessibility](https://img.shields.io/badge/accessibility-0075ca?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aaccessibility)
