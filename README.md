@@ -1,5 +1,18 @@
 # ◈ SENTINELA OSIRIS
 
+[![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Abug)
+[![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aenhancement)
+[![accessibility](https://img.shields.io/badge/accessibility-0075ca?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aaccessibility)
+[![documentation](https://img.shields.io/badge/documentation-0075ca?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Adocumentation)
+[![security](https://img.shields.io/badge/security-b60205?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Asecurity)
+[![dependencies](https://img.shields.io/badge/dependencies-0366d6?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Adependencies)
+[![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3A%22good+first+issue%22)
+[![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3A%22help+wanted%22)
+[![question](https://img.shields.io/badge/question-d876e3?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aquestion)
+[![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Aduplicate)
+[![invalid](https://img.shields.io/badge/invalid-e4e669?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Ainvalid)
+[![wontfix](https://img.shields.io/badge/wontfix-ffffff?style=flat-square&logo=github)](https://github.com/Condor2026/Sentinel_Osiris_X/issues?q=label%3Awontfix)
+
 **Monitor OSINT de anomalías marítimas** — fusión de señales AIS + radar/SAR + simulador
 para detección de apagados de AIS, ferries "oscuros", narcolanchas, encuentros en mar
 y suplantación (GPS spoofing).
