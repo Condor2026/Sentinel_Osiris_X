@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ⚠️ Aviso legal y limitaciones
+    url: https://github.com/Condor2026/Sentinel_Osiris_X/blob/main/DISCLAIMER.md
+    about: Lee esto antes de reportar. SENTINELA OSIRIS es OSINT marítimo, no un sistema oficial.
+  - name: 🔒 Reportar vulnerabilidad de seguridad
+    url: https://github.com/Condor2026/Sentinel_Osiris_X/blob/main/SECURITY.md
+    about: NO abras un issue público para vulnerabilidades. Sigue el proceso en SECURITY.md.
+  - name: ♿ Problema de accesibilidad
+    url: https://github.com/Condor2026/Sentinel_Osiris_X/blob/main/ACCESSIBILITY.md
+    about: Consulta cómo reportar problemas de accesibilidad antes de abrir un issue.
+  - name: 💬 Discusiones
+    url: https://github.com/Condor2026/Sentinel_Osiris_X/discussions
+    about: Preguntas, ideas y charla general.
